@@ -1,0 +1,14 @@
+# Javaのコンパイルファイル（再生成できるので不要）
+*.class
+
+# Macの隠しファイル
+.DS_Store
+
+# 実行時にできるCSVファイル（履歴）
+address.csv
+
+# ライブラリ（jarファイル）
+*.jar
+
+# VSCodeの設定（チームで共有不要な場合）
+.vscode/
